@@ -9,7 +9,7 @@ Projenin amacı API hakkında daha fazla bilgi edinmek, kullanımı hakkında de
 
 
 
-![Ana Ekran]([https://github.com/user-attachments/assets/177bc60b-9da2-4642-93f1-3df00a55cfb6])
+![Ana Ekran](https://github.com/user-attachments/assets/177bc60b-9da2-4642-93f1-3df00a55cfb6)
 
 Uygulama açıldığında useFetch kullanılarak API isteği atılıyor ve API den dönen cevap döndürülüyor Flatlist kullanılarak ekrana bastırılıyor.
 
