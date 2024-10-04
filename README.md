@@ -13,7 +13,7 @@ Projenin amacı API hakkında daha fazla bilgi edinmek, kullanımı hakkında de
 
 Uygulama açıldığında useFetch kullanılarak API isteği atılıyor ve API den dönen cevap döndürülüyor Flatlist kullanılarak ekrana bastırılıyor.
 
-![Ana Ekran](https://via.placeholder.com/468x300?text=App+github.com/user-attachments/assets/177bc60b-9da2-4642-93f1-3df00a55cfb6)
+![Ana Ekran](https://via.placeholder.com/468x300?github.com/user-attachments/assets/177bc60b-9da2-4642-93f1-3df00a55cfb6)
 
 Ürünlerin detaylarına ulaşmak için tıklanılan ürünün id adresi Details sayfasına gönderilerek API'ye id bazlı istek gönderiliyor ve API den dönen ürün bilgileri ekrana bastırılıyor.
 
