@@ -9,7 +9,7 @@ Projenin amacı API hakkında daha fazla bilgi edinmek, kullanımı hakkında de
 
 
 
-![Ana Ekran](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Ana Ekran]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/ernsngr/ReactNativeStoreApp/issues/1#issue-2566264560))
 
 Uygulama açıldığında useFetch kullanılarak API isteği atılıyor ve API den dönen cevap döndürülüyor Flatlist kullanılarak ekrana bastırılıyor.
 
